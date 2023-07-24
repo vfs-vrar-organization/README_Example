@@ -20,10 +20,22 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 ### Bullet Points Example
 
+* Stackable 
+* Usable 
+* Slots inside bag can be modified
+* Dequipping Bags
+
+////////////////////////
+
+### Checkmarks Examples
+
   - [x] Stackable 
   - [x] Usable 
   - [x] Slots inside bag can be modified
   - [x] Dequipping Bags
+
+  - [ ] Futue tree
+  - [ ] Upcoming code
 
 ////////////////////////
 
