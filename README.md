@@ -4,8 +4,6 @@
 
 Format: [Link Title](https Link)
 
-////////////////////////
-
 ### Shortcuts References
 
   <a href="#section">Section</a> 
@@ -15,8 +13,6 @@ Format: [Link Title](https Link)
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-////////////////////////
 
 ### Bullet Points Example
 
@@ -37,8 +33,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
   - [ ] Futue tree
   - [ ] Upcoming code
 
-////////////////////////
-
 ### Headings Sizes
 
 # Size 1
@@ -46,13 +40,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 ### Size 3
 #### Size 4
 
-////////////////////////
-
-### Gif Format
+### GIF Format
 
 Format: ![alt text](Link to GIF, needs to be uploaded to this repository)
-
-//////////////////////
 
 ### More 
 
