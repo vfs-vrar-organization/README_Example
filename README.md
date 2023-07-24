@@ -24,3 +24,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
   - [x] Usable 
   - [x] Slots inside bag can be modified
   - [x] Dequipping Bags
+
+////////////////////////
+
+### Sizes of Headings
+
+# Size
+## Size 2
+### Size 3
