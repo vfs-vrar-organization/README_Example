@@ -44,6 +44,6 @@ Format: ![alt text](Link to GIF, needs to be uploaded to this repository)
 
 ### More 
 
-For those that want to learn more and explore other function use the following link:
+For those that want to learn more and explore other functions use the following link:
 
 [Github Formating Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
