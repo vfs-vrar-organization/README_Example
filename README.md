@@ -1,10 +1,10 @@
 # README_Example
 
-<p align="center">
+
   <a href="#features">Features</a> |
   <a href="#tools">Tools</a> |
   <a href="#roadmap">Roadmap</a>
-</p>
+
 
 * <KEY FEATURES LIST - TOP 5>
 - Local multiplayer
