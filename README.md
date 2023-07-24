@@ -1,8 +1,8 @@
 # README_Example
 
-### External Documents Links
+### External Documents Links Format
 
-Format: "[Link Title](https Link)"
+Format: [Link Title](https Link)
 
 ////////////////////////
 
@@ -27,9 +27,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 ////////////////////////
 
-### Sizes of Headings
+### Headings Sizes
 
 # Size 1
 ## Size 2
 ### Size 3
 #### Size 4
+
+////////////////////////
+
+### Gif Format
+
+Format: ![alt text](Link to GIF, needs to be uploaded to this repository)
