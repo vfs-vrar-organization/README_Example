@@ -12,36 +12,9 @@ Embark in this "friendly" adventure with two others until you reach the dragonâ€
 - Cooperative puzzle design
 - Checkpoints.
 
-### Documents
+### Documents Links
 
-[Game Design](https://docs.google.com/document/d/1puxYwrB6iXx1gUny4BtQHiKDj-FbJYc1yKL64KTIIsk/edit)
-
-[Level Design](https://docs.google.com/document/d/15-JbWobbWE-QAux7iIIbH14FkuIvZeXmhtTGt3F_kqY/edit)
-
-[MDD](https://miro.com/welcomeonboard/TXlQbUNPTTBiQ3hYMDAzRVBuZDdGMUFmMFE1bXYyQzlyNTlFOVE2dTVoek8xWW1sMDg2RmJ0RnZub0pRM1hERHwzNDU4NzY0NTI5MTc4MDY4NDAx?share_link_id=675468570149)
-
-[Task list](https://docs.google.com/spreadsheets/d/1CHY-oQshkK13hI0gyVpOlqlGMrOVqNWBQyagXrjcums/edit#gid=1293827372)
-
-[Clickup](https://app.clickup.com/14250770/v/l/djwrj-107)
-
-[Asset list](https://docs.google.com/spreadsheets/d/1CHY-oQshkK13hI0gyVpOlqlGMrOVqNWBQyagXrjcums/edit#gid=2032915027)
-
-[Level Design Factors](https://docs.google.com/document/d/1wtw1S01pa4mcipVvlvBkcHVUahjabYeCRUpWyAVtsBE/edit?usp=sharing)
-
-[Feedback Forms](https://docs.google.com/forms/d/e/1FAIpQLSc0H4RI88LjMdsxBrC7HZP8PIWviNzkYVY_Qk-Hur7_tlsCUg/viewform)
-
-[Feedback Responses](https://docs.google.com/spreadsheets/d/1-gVN08wuT_255xbzrIIurgHQKmlS-tMMZh6csoUDEQw/edit#gid=652552928)
-
-[Bug Tracking](https://docs.google.com/spreadsheets/d/11eFLSScyCnVKUv4Cu7b7IHfSQuR2v2u8PenCT7JNLnw/edit#gid=0)
-
-## Milestone folders
-[M1 Folder](https://drive.google.com/drive/folders/1c43zshJTTOaSCq3Ki811JkOq88mzCLVj?usp=sharing)
-
-[M2 Folder](https://drive.google.com/drive/folders/1SDHg9GPo4tFwsC7fYmBh5I2ojQu4-ieb?usp=sharing)
-
-[M3 Folder](https://drive.google.com/drive/folders/1LDPIubbavzSxoBE__nPXF8mjAFhTltF2)
-
-[Alpha Folder](https://drive.google.com/drive/folders/1WTg3Vb1vPXVf2VSuXnKwCxN2LRHsTREc)
+Format: "[Link Title](https Link)"
 
 ## Milestone Builds
 [M1 Build](https://drive.vfs.com/index.php/apps/files/?dir=/VFSSTORAGE10%20Dropbox%20GDPGSD/Builds/GD66PG22/Frenemies/M1&fileid=78628966)
