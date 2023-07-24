@@ -21,8 +21,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 * Slots inside bag can be modified
 * Dequipping Bags
 
-////////////////////////
-
 ### Checkmarks Examples
 
   - [x] Stackable 
